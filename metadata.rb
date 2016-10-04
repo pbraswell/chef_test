@@ -1,0 +1,7 @@
+name             'external_cookbook'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures external_cookbook'
+long_description 'Installs/Configures external_cookbook'
+version          '0.1.0'
